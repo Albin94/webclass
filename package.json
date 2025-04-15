@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/Albin94/webclanpmss/issues"
   },
-  "homepage": "https://github.com/Albin94/webclass#readme"
+  "homepage": "https://github.com/Albin94/webclass#readme",
   "dependencies": {
     "express": "5.1.0"
   }
